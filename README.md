@@ -1,0 +1,1 @@
+This mini-project attempts to create an exact copy of the google homepage. 
