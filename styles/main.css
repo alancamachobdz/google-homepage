@@ -1,0 +1,16 @@
+html {
+    background-color: white;
+    color: #222;
+    font-size: small;
+    font-family: arial, sans-serif;
+}
+
+
+#logo {
+    text-align: center;
+    padding-top: 110px;
+}
+
+#search {
+    text-align: center;
+}
