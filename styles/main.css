@@ -36,4 +36,18 @@ html {
     top: 290px;
     left: 310px;
 }
+#mag-glass-area {
+    display: flex;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: -5px;
+}
+.magglass {
+    color: #9AA0A6;
+    height: 20px;
+    width: 20px;
+    margin-top: 3px;
+    position: absolute;
+    left: 275px;
+}
     
