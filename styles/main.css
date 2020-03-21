@@ -5,7 +5,7 @@ html {
     font-family: arial, sans-serif;
 }
 #logoarea {
-    margin-top: 48px;
+    margin-top: 75px;
 }
 #logo {
     text-align: center;
@@ -21,6 +21,19 @@ html {
     margin: 0 auto;
     width: 482px;
 }
-#search {
-    text-align: center;
+#searchbar {
+    color: transparent;
+    height: 34px !important;
+    line-height: 34px;
+    flex: 100%;
 }
+.searchfunction {
+    width: 400px;
+    border: none;
+    font-size: 16px;
+    padding: 0;
+    position: fixed;
+    top: 290px;
+    left: 310px;
+}
+    
