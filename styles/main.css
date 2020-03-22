@@ -96,6 +96,19 @@ li {
     width: 483px;
     z-index: 0;
 }
+.search-button {
+    text-align: center;
+    display: flex;
+    position: relative;
+    top: 50px;
+    left: 275px;
+}
+.im-feeling-button {
+    text-align: center;
+    position: relative;
+    right: -100px;
+    top: 29px;
+}
 #fbar {
     bottom: 0;
     left: 0;
