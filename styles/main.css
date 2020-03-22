@@ -98,10 +98,9 @@ li {
 }
 .search-button {
     text-align: center;
-    display: flex;
     position: relative;
     top: 50px;
-    left: 290px;
+    left: -75px;
 }
 .im-feeling-button {
     text-align: center;
