@@ -101,12 +101,12 @@ li {
     display: flex;
     position: relative;
     top: 50px;
-    left: 275px;
+    left: 290px;
 }
 .im-feeling-button {
     text-align: center;
     position: relative;
-    right: -100px;
+    right: -60px;
     top: 29px;
 }
 #fbar {
